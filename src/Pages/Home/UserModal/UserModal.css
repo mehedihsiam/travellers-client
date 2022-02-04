@@ -1,0 +1,21 @@
+.modal{
+    width: 15%;
+    position: absolute;
+    right: 100px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.list-in-modal{
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.list-in-modal li{
+    list-style: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid gray;
+}

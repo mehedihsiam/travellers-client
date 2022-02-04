@@ -1,0 +1,13 @@
+.logo{
+    width: 100%;
+}
+
+.user-icon{
+    font-size: 2rem;
+}
+
+.user-btn{
+    background-color: transparent;
+    border: 0px;
+    outline: none;
+}
